@@ -64,7 +64,7 @@
 ## 📫 **Let’s Connect!**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-marumo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marumo)  
-[![Gmail](https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](alexmarumo16@gmail.com) 
+[![Gmail](https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmarumo16@gmail.com) 
 ---
 
 🔥 **"The world is too big to stay in one place, and life is too short to do just one thing."** 🔥
