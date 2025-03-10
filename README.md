@@ -1,6 +1,6 @@
 ## **ABOUT...**
 
-# 👋 Hey there, I'm Alex! (**sh.x.dow** 🕶️)
+# 👋 Hey there, I'm Alex!🕶️
 
 🚀 **Passionate Computer Scientist | Cyber Security Enthusiast | AI Enthusiast | Here and there coder**
 
