@@ -49,7 +49,7 @@
 
 ---
 
-## 🔥 **What I’m Working On (04/03/2023)**
+## 🔥 **Work in progress (i guess) (11/03/2023)**
 - 🏗️ Building a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
 - 🤖 Developing an **AI Character** with a personality inspired by **diabolical characters i happen to like (UPCOMING PROJECT)**
 - 🤖 Also want to try my luck on a **JARVIS-type AI (its just a fantasy of mine😅)**
@@ -71,3 +71,14 @@
 
 ✨ _Let's build, break, and explore together!_
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&layout=compact&theme=radical" alt="Top Languages(github only😉)" />
+</p>
+
+---
