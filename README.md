@@ -73,12 +73,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&layout=compact&theme=radical" alt="Top Languages(github only😉)" />
-</p>
-
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+  
+  ![Top Languages (Github Only😉)](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&layout=compact&theme=radical&hide_border=false&cache_seconds=1800)
+  
+</div>
 ---
