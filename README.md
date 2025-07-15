@@ -51,7 +51,7 @@
 ---
 
 ## 🔥 **Major Projects i worked on**
-- 📝 Working on a note taking app based on Lexical (Tests)
+- 📝 Working on a **Note Taking App** with **React, TypeScript, and the Lexical editor framework**
 - 🏗️ Built a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
 
 ---
