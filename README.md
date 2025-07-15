@@ -8,7 +8,7 @@
 
 ## 🌟 **About Me**
 - 💻 **Computer Science Graduate** at Botswana International University of Science and Technology
-- 🔐 Deeply interested in **Cyber Security, AI Development, and Quantum Computing as well as Game Development(want to learn it for a hobby though...those games aint gonna mod themselves😉)**
+- 🔐 Deeply interested in **Cyber Security, AI Development, as well as Game Development(want to learn it for a hobby though...those games aint gonna mod themselves😉)**
 - 🏗️ Built a **Digital Marketplace for Local Artists** for my final year project.
 - 🐧 Linux & Hyprland Enthusiast (Yes, I love tweaking my setup!)
 
