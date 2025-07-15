@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 **About Me**
-- 💻 **Computer Science Student** at Botswana International University of Science and Technology
+- 💻 **Computer Science Graduate** at Botswana International University of Science and Technology
 - 🔐 Deeply interested in **Cyber Security, AI Development, and Quantum Computing as well as Game Development(want to learn it for a hobby though...those games aint gonna mod themselves😉)**
-- 🏗️ Currently building a **Digital Marketplace for Local Artists**
+- 🏗️ Built a **Digital Marketplace for Local Artists** for my final year project.
 - 🐧 Linux & Hyprland Enthusiast (Yes, I love tweaking my setup!)
 
 ---
@@ -43,14 +43,20 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Grok](https://img.shields.io/badge/Grok-10A37F?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)  
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-FFB300?style=for-the-badge&logo=claude&logoColor=black)  
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
 ---
 
-## 🔥 **Work in progress (i guess) (11/03/2023)**
-- 🏗️ Building a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
+## 🔥 **Major Projects i worked on**
+- 📝 Working on a note taking app based on Lexical (Tests)
+- 🏗️ Built a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
+
+---
+
+## 👽 **Fantasies (let a guy dream, no?😅)**
 - 🤖 Developing an **AI Character** with a personality inspired by **diabolical characters i happen to like (UPCOMING PROJECT)**
 - 🤖 Also want to try my luck on a **JARVIS-type AI (its just a fantasy of mine😅)**
 
