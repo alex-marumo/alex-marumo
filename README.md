@@ -79,11 +79,17 @@
 
 ---
 
+## 📊**GitHub Stats**
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
-  
-  ![Top Languages (Github Only😉)](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&layout=compact&theme=radical&hide_border=false&cache_seconds=1800)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-marumo&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
+## 🏆 **GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alex-marumo&theme=tokyonight&no-frame=true&margin-w=15&column=7)
+
+[![committers.top badge](https://user-badge.committers.top/botswana/alex-marumo.svg)](https://user-badge.committers.top/botswana/alex-marumo)
 ---
