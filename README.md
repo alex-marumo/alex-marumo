@@ -90,7 +90,7 @@
 
 ## 🔝 **Top Repositories**
 
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=WyvernPirate&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/alex-marumo)
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=alex-marumo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/alex-marumo)
 
 ---
 
