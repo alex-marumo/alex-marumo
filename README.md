@@ -92,8 +92,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/botswana/alex-marumo.svg)](https://user-badge.committers.top/botswana/alex-marumo)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alex-marumo&theme=tokyonight&no-frame=true&margin-w=15&column=7)
-
 ---
 
 ## 📫 **Let’s Connect!**
