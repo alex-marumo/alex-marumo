@@ -92,10 +92,6 @@
 
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=WyvernPirate&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/alex-marumo)
 
-## 🏆 **GitHub Achievements**
-
-[![committers.top badge](https://user-badge.committers.top/botswana/alex-marumo.svg)](https://user-badge.committers.top/botswana/alex-marumo)
-
 ---
 
 ## 📫 **Let’s Connect!**
