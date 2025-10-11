@@ -60,15 +60,18 @@
 
 ## 🔥 **Major Projects i worked on**
 
-- 📝 Working on a **Note Taking App** with **React, TypeScript, and the Lexical editor framework**
+- 📝 Worked on a **Note Taking App** with **React, TypeScript, and the Lexical editor framework**
 - 🏗️ Built a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
 
 ---
 
-## 👽 **Fantasies (let a guy dream, no?😅)**
+## 👽 **Fantasies (Might turn into PROJECTS)**
 
-- 🤖 Developing an **AI Character** with a personality inspired by **diabolical characters i happen to like (UPCOMING PROJECT)**
-- 🤖 Also want to try my luck on a **JARVIS-type AI (its just a fantasy of mine😅)**
+- 🤖 A **Budgeting App** with automated tracking using Machine Learning and AI driven analytics
+- 🤖 A **Decentralized Chat App** with P2P messaging without need for centralized server
+- 🤖 An **AI codebase for storytelling** (Basically feed it a huge repo and it maps out the story of the code; evolution, changes, contributors and complexity over time)...COOL RIGHT
+- 🤖 See if I can build a **Lightweight OS** using **Arch Linux or Alpine** as the base, mainly for old devices😉
+- 🤖 Limits shall be tested if I ever attempt a **Multimodal AI OS Shell** (Basically a somewhat version of JARVIS😅)
 
 ---
 
