@@ -81,15 +81,16 @@
 
 ---
 
-## 📊**GitHub Stats**
+## 📊 **System Metrics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=0" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&layout=compact&border_radius=0" alt="Top Languages" height="180" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-marumo&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-marumo&theme=tokyonight&border_radius=0" alt="GitHub Streak" width="100%" />
 </div>
+
+---
 
 ## 🔝 **Top Repositories**
 
