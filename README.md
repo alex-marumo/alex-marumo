@@ -102,7 +102,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-marumo)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexmarumo16@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RnBYr9mJ)
-[![PortFolio](https://img.shields.io/badge/Vercel-%237289DA.svg?logo=discord&logoColor=white)](https://alex-marumo.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-marumo.vercel.app/)
+
+---
 
 ---
 
