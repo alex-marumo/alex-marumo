@@ -1,116 +1,73 @@
-## **ABOUT...**
+**ABOUT...**
 
-# 👋 Hey there, I'm Alex!🕶️
+Hey there, I'm Alex! 
 
-🚀 **Passionate Computer Scientist | Cyber Security Enthusiast | AI Enthusiast | Here and there coder**
+**Passionate Computer Scientist | Cyber Security Enthusiast | AI Researcher | Linux Ricer**
 
----
+**About Me**
 
-## 🌟 **About Me**
+    💻 Computer Science Graduate at Botswana International University of Science and Technology (BIUST)
 
-- 💻 **Computer Science Graduate** at Botswana International University of Science and Technology
-- 🔐 Deeply interested in **Cyber Security, AI Development, as well as Game Development(want to learn it for a hobby though...those games aint gonna mod themselves😉)**
-- 🏗️ Built a **Digital Marketplace for Local Artists** for my final year project.
-- 🐧 Linux & Hyprland Enthusiast (Yes, I love tweaking my setup!)
+    🔐 Deeply interested in Cyber Security, AI Development, and Game Modding (those games won't mod themselves)
 
----
+    🏗️ Built a Digital Marketplace for Local Artists as a full-stack architectural challenge.
 
-## 🛠️ **Tech Stack & Tools**
+    🐧 Linux & Hyprland Enthusiast — I live for a clean dotfile and a custom kernel.
 
-🚀 **Programming Languages:**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</div>)  
+**🛠️ Tech Stack & Tools**
 
-🛠️ **Backend & Database:**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+**Programming Languages:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
 </div>
 
-🎨 **Frontend:**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+**Backend & Database:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
 </div>
 
-🖥️ **Operating Systems & Tools:**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Windows-1793D1?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Parrot%20OS-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="Parrot OS">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Grok-10A37F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Grok">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Claude%20AI-FFB300?style=for-the-badge&logo=claude&logoColor=black" alt="Claude AI">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+**Frontend:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Lexical-20232A?style=for-the-badge&logo=meta&logoColor=white">
+
 </div>
 
----
+**Operating Systems & Tools:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/Parrot_OS-00AEEF?style=for-the-badge&logo=parrotos&logoColor=white"> <img src="https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-## 🔥 **Major Projects i worked on**
-
-- 📝 Worked on a **Note Taking App** with **React, TypeScript, and the Lexical editor framework**
-- 🏗️ Built a **Digital Marketplace** for Local Artists using **React, Node.js & PostgreSQL**
-
----
-
-## 👽 **Fantasies (Might turn into PROJECTS)**
-
-- 🤖 A **Budgeting App** with automated tracking using Machine Learning and AI driven analytics
-- 🤖 A **Decentralized Chat App** with P2P messaging without need for centralized server
-- 🤖 An **AI codebase for storytelling** (Basically feed it a huge repo and it maps out the story of the code; evolution, changes, contributors and complexity over time)...COOL RIGHT
-- 🤖 See if I can build a **Lightweight OS** using **Arch Linux or Alpine** as the base, mainly for old devices😉
-- 🤖 Limits shall be tested if I ever attempt a **Multimodal AI OS Shell** (Basically a somewhat version of JARVIS😅)
-
----
-
-## 🎯 **Degree**
-
-- 🌐 **BSc in Computer Science and Software Engineering**
-
----
-
-## 📊 **System Metrics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-marumo&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=0" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&layout=compact&border_radius=0" alt="Top Languages" height="180" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-marumo&theme=tokyonight&border_radius=0" alt="GitHub Streak" width="100%" />
 </div>
 
----
+**Major Projects**
 
-## 🔝 **Top Repositories**
+    📝 Lexical Notes: High-performance rich-text editor environment exploring TypeScript and content-editable frameworks.
 
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=alex-marumo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/alex-marumo)
+    🏗️ Digital Marketplace: A full-stack ecosystem for local artists featuring secure auth and PostgreSQL persistence.
 
----
+    🔊 Speakless: Accessibility utility leveraging OpenAI Whisper for seamless speech-to-text.
 
-## 📫 **Let’s Connect!**
+**Fantasies (Future Projects)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-marumo)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexmarumo16@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RnBYr9mJ)
-[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-marumo.vercel.app/)
+    🤖 Neural Budgeting: Automated tracking using ML-driven predictive analytics.
 
----
+    🤖 Ghost Chat: A decentralized, P2P messaging protocol with zero central server reliance.
 
----
+    🤖 Code Storyteller: A tool that maps the "narrative" of a repository—evolution, contributors, and technical debt.
 
-🔥 **"The world is too big to stay in one place, and life is too short to do just one thing."** 🔥
+    🤖 Legacy OS: A brutalist, ultra-lightweight Arch/Alpine fork for vintage hardware.
 
-✨ _Let's build, break, and explore together!_
+    🤖 Project JARVIS: The endgame—a multimodal AI OS shell.
 
----
+**Degree**
+
+    🌐 BSc in Computer Science and Software Engineering | BIUST
+
+**System Metrics**
+
+<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=tokyonight&hide_border=false&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=22C55E&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&hide_border=false&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&layout=compact" width="48%" /> </div>
+
+**Top Repositories**
+
+<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alex-marumo&repo=digital-marketplace-backend&theme=tokyonight&border_color=3B82F6&bg_color=0D1117" /> </div>
+
+**Let’s Connect!**
+
+<div style="display: flex; gap: 10px;"> <a href="https://linkedin.com/in/alex-marumo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:alexmarumo16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://discord.gg/RnBYr9mJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://alex-marumo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> </div>
+
+"The world is too big to stay in one place, and life is too short to do just one thing."
+
+Let's build, break, and explore together!
