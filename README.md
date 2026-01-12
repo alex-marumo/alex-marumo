@@ -8,13 +8,13 @@ Hey there, I'm Alex!
 
     💻 Computer Science Graduate at Botswana International University of Science and Technology (BIUST)
 
-    🔐 Deeply interested in Cyber Security, AI Development, and Game Modding (those games won't mod themselves)
+    🔐 Deeply interested in Cyber Security, Software Development, and Game Modding (those games won't mod themselves)
 
     🏗️ Built a Digital Marketplace for Local Artists as a full-stack architectural challenge.
 
     🐧 Linux & Hyprland Enthusiast — I live for a clean dotfile and a custom kernel.
 
-**🛠️ Tech Stack & Tools**
+**Tech Stack & Tools**
 
 **Programming Languages:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
