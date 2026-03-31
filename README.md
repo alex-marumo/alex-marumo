@@ -6,11 +6,9 @@ Hey there, I'm Alex!
 
 **About Me**
 
-    💻 Computer Science Graduate at Botswana International University of Science and Technology (BIUST)
+    💻 Computer Science and Software Engineering Graduate
 
     🔐 Deeply interested in Cyber Security, Software Development, and Game Modding (those games won't mod themselves)
-
-    🏗️ Built a Digital Marketplace for Local Artists as a full-stack architectural challenge.
 
     🐧 Linux & Hyprland Enthusiast — I live for a clean dotfile and a custom kernel.
 
@@ -32,15 +30,17 @@ Hey there, I'm Alex!
 
 </div>
 
-**Major Projects**
+**Some Projects**
 
     📝 Lexical Notes: High-performance rich-text editor environment exploring TypeScript and content-editable frameworks.
 
     🏗️ Digital Marketplace: A full-stack ecosystem for local artists featuring secure auth and PostgreSQL persistence.
 
     🔊 Speakless: Accessibility utility leveraging OpenAI Whisper for seamless speech-to-text.
+    
+    👁️ MidnightProtocol: My very own custom built agsv3 dotfiles. A lotta inspiration form end-4 and caelesthia.
 
-**Fantasies (Future Projects)**
+**Fantasia (Some Projects that remain as dreams)**
 
     🤖 Neural Budgeting: Automated tracking using ML-driven predictive analytics.
 
@@ -52,7 +52,7 @@ Hey there, I'm Alex!
 
     🤖 Project JARVIS: The endgame—a multimodal AI OS shell.
 
-**Degree**
+**Qualification**
 
     🌐 BSc in Computer Science and Software Engineering | BIUST
 
