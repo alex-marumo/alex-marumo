@@ -113,8 +113,6 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&include_all_commits=true&count_private=true&border_radius=4" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-marumo&bg_color=0a0a0a&color=c9c9c9&line=666666&point=9f9f9f&area=true&hide_border=true&radius=4" width="98%" />
 
-<br><br>
-
 ### 𝚝𝚑𝚎 𝚊𝚛𝚝𝚒𝚏𝚊𝚌𝚝
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alex-marumo&repo=MidnightProtocol&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&border_radius=4" />
