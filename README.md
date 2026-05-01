@@ -1,73 +1,150 @@
-**ABOUT...**
+<div align="center">
 
-Hey there, I'm Alex! 
+# 𝔞𝔟𝔶𝔰𝔰.𝔴𝔞𝔩𝔨𝔢𝔯
 
-**Passionate Computer Scientist | Cyber Security Enthusiast | AI Researcher | Linux Ricer**
+*the silent_dreamer's fantasy.*
 
-**About Me**
-
-    💻 Computer Science and Software Engineering Graduate
-
-    🔐 Deeply interested in Cyber Security, Software Development, and Game Modding (those games won't mod themselves)
-
-    🐧 Linux & Hyprland Enthusiast — I live for a clean dotfile and a custom kernel.
-
-**Tech Stack & Tools**
-
-**Programming Languages:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+---
 
 </div>
 
-**Backend & Database:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+## the blueprint
+
+Greetings. Ser Alex here, he who follows the path of *ARTORIAS*. 
+
+**Computer Scientist • Software Developer • Cyber Security Enthusiast • Hyprland Ricer • Linux Worshipper • Terminal Dweller**
+
+<br>
+
+---
+
+## T3CH ST4CK 4ND T00LS
+
+<div align="center">
+
+### Programming Languages
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=java&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Dart-1a1a1a?style=for-the-badge&logo=dart&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=6b6b6b" />
+
+### Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=6b6b6b" />
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Lexical-1a1a1a?style=for-the-badge&logo=meta&logoColor=6b6b6b" />
+
+### Operating Systems & Tools
+
+<img src="https://img.shields.io/badge/Arch_Linux-1a1a1a?style=for-the-badge&logo=arch-linux&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Parrot_OS-1a1a1a?style=for-the-badge&logo=parrotos&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Hyprland-1a1a1a?style=for-the-badge&logo=linux&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Neovim-1a1a1a?style=for-the-badge&logo=neovim&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=6b6b6b" />
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=6b6b6b" />
 
 </div>
 
-**Frontend:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Lexical-20232A?style=for-the-badge&logo=meta&logoColor=white">
+<br>
+
+---
+
+## 4 F3W F0RG3S
+
+<details open>
+<summary><b>A Few Forges</b></summary>
+
+<br>
+
+- **Lexical Notes**  
+A high-performance rich-text editor environment. Built to explore TypeScript's capabilities and the intricacies of content-editable frameworks. Clean architecture, minimal dependencies.
+
+- **Digital Marketplace**  
+Full-stack ecosystem for local artists in Botswana. Secure authentication, PostgreSQL persistence, payment integration. Currently serves the Gaborone creative community.
+
+- **Speakless**  
+Accessibility utility leveraging OpenAI Whisper for seamless speech-to-text conversion. Built for those who need their voice heard in writing.
+
+</details>
+
+<details>
+<summary><b>The Workshop</b> <i>(concepts in development)</i></summary>
+
+<br>
+
+- **MidnightProtocol**  
+My custom AGS v3 dotfiles configuration. A dark, setup built by man, in the image of a dream he had in the days of old. Inspired by end-4 and caelesthia, refined through countless iterations. Resides in [`MidnightProtocol`](https://github.com/alex-marumo/MidnightProtocol).
+
+<!--
+
+- **Neural Budgeting** — Automated expense tracking using ML-driven predictive analytics. Teaching machines to understand financial patterns.
+
+- **Ghost Chat** — A decentralized, P2P messaging protocol. Zero central server reliance. Privacy by architecture, not promise.
+
+- **Code Storyteller** — Maps the narrative of a repository: evolution, contributors, technical debt. Understanding code as living history.
+
+- **Legacy OS** — Brutalist, ultra-lightweight Arch/Alpine fork designed for vintage hardware. Machines deserve second lives.
+
+- **Project JARVIS** — The endgame. A multimodal AI companion living within the operating system shell. Still theoretical, but the pieces are coming together.
+-->
+</details>
+
+---
+<div align="center">
+
+---
+
+## 7H3 R3C0RDS
+
+<br>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&include_all_commits=true&count_private=true&border_radius=4" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alex-marumo&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&text_color=9f9f9f&layout=compact&border_radius=4" width="49%" />
+
+<br><br>
+
+### NOT3W0R7HY
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alex-marumo&repo=MidnightProtocol&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&border_radius=4" />
+
+<br>
+
+---
 
 </div>
 
-**Operating Systems & Tools:** <div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/Parrot_OS-00AEEF?style=for-the-badge&logo=parrotos&logoColor=white"> <img src="https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<br>
+
+---
+
+<div align="center">
+
+## C0NT4CTS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=6b6b6b)](https://linkedin.com/in/alex-marumo)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=6b6b6b)](mailto:alexmarumo16@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=6b6b6b)](https://discord.gg/RnBYr9mJ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=6b6b6b)](https://alex-marumo.vercel.app/)
+
+<br>
+
+---
+
+*"The world is too big to stay in one place, and life is too short to do just one thing."*
+
+**Let's build, break, and explore together.**
 
 </div>
-
-**Some Projects**
-
-    📝 Lexical Notes: High-performance rich-text editor environment exploring TypeScript and content-editable frameworks.
-
-    🏗️ Digital Marketplace: A full-stack ecosystem for local artists featuring secure auth and PostgreSQL persistence.
-
-    🔊 Speakless: Accessibility utility leveraging OpenAI Whisper for seamless speech-to-text.
-    
-    👁️ MidnightProtocol: My very own custom built agsv3 dotfiles. A lotta inspiration form end-4 and caelesthia.
-
-**Fantasia (Some Projects that remain as dreams)**
-
-    🤖 Neural Budgeting: Automated tracking using ML-driven predictive analytics.
-
-    🤖 Ghost Chat: A decentralized, P2P messaging protocol with zero central server reliance.
-
-    🤖 Code Storyteller: A tool that maps the "narrative" of a repository—evolution, contributors, and technical debt.
-
-    🤖 Legacy OS: A brutalist, ultra-lightweight Arch/Alpine fork for vintage hardware.
-
-    🤖 Project JARVIS: The endgame—a multimodal AI OS shell.
-
-**Qualification**
-
-    🌐 BSc in Computer Science and Software Engineering | BIUST
-
-**System Metrics**
-
-<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=tokyonight&hide_border=false&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=22C55E&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alex-marumo&theme=tokyonight&hide_border=false&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&layout=compact" width="48%" /> </div>
-
-**Top Repositories**
-
-<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alex-marumo&repo=digital-marketplace-backend&theme=tokyonight&border_color=3B82F6&bg_color=0D1117" /> </div>
-
-**Let’s Connect!**
-
-<div style="display: flex; gap: 10px;"> <a href="https://linkedin.com/in/alex-marumo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:alexmarumo16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://discord.gg/RnBYr9mJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://alex-marumo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> </div>
-
-"The world is too big to stay in one place, and life is too short to do just one thing."
-
-Let's build, break, and explore together!
