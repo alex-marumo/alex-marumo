@@ -19,7 +19,7 @@ jobs:
           node-version: 20
 
       - name: Generate cards
-        run: node .github/scripts/metrics.mjs
+        run: node .github/workflows/scripts/metrics.mjs
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
