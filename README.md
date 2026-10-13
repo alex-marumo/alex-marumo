@@ -9,7 +9,7 @@
 </div>
 
 ## 𝚝𝚑𝚎 𝚜𝚑𝚊𝚍𝚘𝚠
-𝖦𝗋𝖾𝖾𝗍𝗂𝗇𝗀𝗌, strange one, it is I *Ser Alex the dreaming*.
+𝖦𝗋𝖾𝖾𝗍𝗂𝗇𝗀𝗌, strange one. 'tis I *Ser Alex the dreamin'*.
   
 **𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝗍𝗂𝗌𝗍 • 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 • 𝖢𝗒𝖻𝖾𝗋 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍 • 𝖫𝗂𝗇𝗎𝗑 𝖶𝗈𝗋𝗌𝗁𝗂𝗉𝗉𝖾𝗋 • 𝖳𝖾𝗋𝗆𝗂𝗇𝖺𝗅 𝖣𝗐𝖾𝗅𝗅𝖾𝗋**
 
