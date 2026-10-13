@@ -2,10 +2,9 @@ name: Generate Snake Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Grant write permissions to GITHUB_TOKEN
 permissions:
   contents: write
 
@@ -13,14 +12,125 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#c9c9c9&color_dots=#0a0a0a,#1a1a1a,#333333,#666666,#9f9f9f
+      - uses: actions/checkout@v4
 
-      - name: Push Snake SVG to Output Branch
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate abyss graph
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: |
+          cat > "$RUNNER_TEMP/abyss.mjs" <<'EOF'
+          import { writeFileSync, mkdirSync } from "node:fs";
+
+          const token = process.env.METRICS_TOKEN;
+          const login = process.env.GH_LOGIN;
+          if (!token || !login) throw new Error("METRICS_TOKEN and GH_LOGIN are required");
+
+          const QUERY = `
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks { contributionDays { contributionCount weekday } }
+                }
+              }
+            }
+          }`;
+
+          const res = await fetch("https://api.github.com/graphql", {
+            method: "POST",
+            headers: {
+              Authorization: `bearer ${token}`,
+              "Content-Type": "application/json",
+              "User-Agent": "abyss-graph",
+            },
+            body: JSON.stringify({ query: QUERY, variables: { login } }),
+          });
+          const json = await res.json();
+          if (!res.ok || json.errors) throw new Error(JSON.stringify(json.errors ?? json));
+
+          const weeks = json.data.user.contributionsCollection.contributionCalendar.weeks;
+
+          // levels: quartiles of non-zero days
+          const nonZero = weeks
+            .flatMap((w) => w.contributionDays.map((d) => d.contributionCount))
+            .filter((n) => n > 0)
+            .sort((a, b) => a - b);
+          const q = (p) => nonZero[Math.min(nonZero.length - 1, Math.floor(nonZero.length * p))] ?? 1;
+          const t1 = q(0.25), t2 = q(0.5), t3 = q(0.75);
+          const level = (n) => (n === 0 ? 0 : n <= t1 ? 1 : n <= t2 ? 2 : n <= t3 ? 3 : 4);
+
+          // [resting colour, colour while the light passes]
+          const PALETTE = [
+            ["#121212", "#262626"],
+            ["#262626", "#5a5a5a"],
+            ["#444444", "#8a8a8a"],
+            ["#707070", "#bdbdbd"],
+            ["#a8a8a8", "#ffffff"],
+          ];
+
+          const CELL = 10, PITCH = 13, PAD = 24, GY = 46;
+          const W = PAD * 2 + weeks.length * PITCH - (PITCH - CELL);
+          const H = GY + 7 * PITCH + 24;
+          const FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace";
+
+          // one slow diagonal sweep of light
+          const T = 12;
+          const TRAVEL = 0.6;
+          const SKEW = Math.tan((20 * Math.PI) / 180);
+          const X0 = -90;
+          const X1 = W + SKEW * H + 90;
+          const L = X1 - X0;
+
+          let cells = "";
+          weeks.forEach((w, wi) => {
+            for (const d of w.contributionDays) {
+              const x = PAD + wi * PITCH;
+              const y = GY + d.weekday * PITCH;
+              const delay = (((x + CELL / 2 + SKEW * (y + CELL / 2)) - X0) / L) * TRAVEL * T;
+              const [base, hi] = PALETTE[level(d.contributionCount)];
+              cells += `<rect class="c" x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" style="--b:${base};--h:${hi};animation-delay:${delay.toFixed(2)}s"/>\n`;
+            }
+          });
+
+          const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="${FONT}">
+          <defs>
+          <clipPath id="card"><rect width="${W}" height="${H}" rx="6"/></clipPath>
+          <linearGradient id="trail" x1="0" x2="1" y1="0" y2="0">
+          <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+          <stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/>
+          </linearGradient>
+          </defs>
+          <style>
+          .c{fill:var(--b);animation:hit ${T}s ease-out infinite}
+          @keyframes hit{0%{fill:var(--h)}20%{fill:var(--b)}100%{fill:var(--b)}}
+          .blade{animation:slash ${T}s linear infinite}
+          @keyframes slash{0%{transform:translateX(${X0.toFixed(1)}px)}${TRAVEL * 100}%{transform:translateX(${X1.toFixed(1)}px)}100%{transform:translateX(${X1.toFixed(1)}px)}}
+          @media (prefers-reduced-motion:reduce){.c,.blade{animation:none}.blade{display:none}}
+          </style>
+          <rect width="${W}" height="${H}" rx="6" fill="#0a0a0a"/>
+          <g clip-path="url(#card)">
+          <text x="${PAD}" y="28" font-size="11" fill="#666666" letter-spacing="3">abyss walker</text>
+          ${cells}<g class="blade"><g transform="skewX(-20)">
+          <rect x="-70" y="0" width="70" height="${H}" fill="url(#trail)"/>
+          <rect x="-0.5" y="0" width="1" height="${H}" fill="#ffffff" opacity="0.6"/>
+          </g></g>
+          </g>
+          <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="none" stroke="#1c1c1c"/>
+          </svg>
+          `;
+
+          mkdirSync("dist", { recursive: true });
+          writeFileSync("dist/github-contribution-grid-snake-dark.svg", svg);
+          console.log(`wrote dist/github-contribution-grid-snake-dark.svg (${weeks.length} weeks)`);
+          EOF
+          node "$RUNNER_TEMP/abyss.mjs"
+
+      - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
