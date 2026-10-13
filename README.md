@@ -85,16 +85,13 @@
 
 <br>
 
+<!--
 - **𝖬𝗂𝖽𝗇𝗂𝗀𝗁𝗍𝖯𝗋𝗈𝗍𝗈𝖼𝗈𝗅**:
 𝖬𝗒 𝖼𝗎𝗌𝗍𝗈𝗆 𝖠𝖦𝖲 𝗏3 𝖽𝗈𝗍𝖿𝗂𝗅𝖾𝗌 𝖼𝗈𝗇𝖿𝗂𝗀𝗎𝗋𝖺𝗍𝗂𝗈𝗇. 𝖠 𝖽𝖺𝗋𝗄, 𝗌𝖾𝗍𝗎𝗉 𝖻𝗎𝗂𝗅𝗍 𝖻𝗒 𝗆𝖺𝗇, 𝗂𝗇 𝗍𝗁𝖾 𝗂𝗆𝖺𝗀𝖾 𝗈𝖿 𝖺 𝖽𝗋𝖾𝖺𝗆 𝗁𝖾 𝗁𝖺𝖽 𝗂𝗇 𝗍𝗁𝖾 𝖽𝖺𝗒𝗌 𝗈𝖿 𝗈𝗅𝖽. 𝖨𝗇𝗌𝗉𝗂𝗋𝖾𝖽 𝖻𝗒 𝖾𝗇𝖽-4 𝖺𝗇𝖽 𝖼𝖺𝖾𝗅𝖾𝗌𝗍𝗁𝗂𝖺, 𝗋𝖾𝖿𝗂𝗇𝖾𝖽 𝗍𝗁𝗋𝗈𝗎𝗀𝗁 𝖼𝗈𝗎𝗇𝗍𝗅𝖾𝗌𝗌 𝗂𝗍𝖾𝗋𝖺𝗍𝗂𝗈𝗇𝗌. 𝖱𝖾𝗌𝗂𝖽𝖾𝗌 𝗂𝗇 [`𝖬𝗂𝖽𝗇𝗂𝗀𝗁𝗍𝖯𝗋𝗈𝗍𝗈𝖼𝗈𝗅`](𝗁𝗍𝗍𝗉𝗌://𝗀𝗂𝗍𝗁𝗎𝖻.𝖼𝗈𝗆/𝖺𝗅𝖾𝗑-𝗆𝖺𝗋𝗎𝗆𝗈/𝖬𝗂𝖽𝗇𝗂𝗀𝗁𝗍𝖯𝗋𝗈𝗍𝗈𝖼𝗈𝗅).
-
-<!--
 
 - **𝖭𝖾𝗎𝗋𝖺𝗅 𝖡𝗎𝖽𝗀𝖾𝗍𝗂𝗇𝗀:** 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝖾𝖽 𝖾𝗑𝗉𝖾𝗇𝗌𝖾 𝗍𝗋𝖺𝖼𝗄𝗂𝗇𝗀 𝗎𝗌𝗂𝗇𝗀 𝖬𝖫-𝖽𝗋𝗂𝗏𝖾𝗇 𝗉𝗋𝖾𝖽𝗂𝖼𝗍𝗂𝗏𝖾 𝖺𝗇𝖺𝗅𝗒𝗍𝗂𝖼𝗌. 𝖳𝖾𝖺𝖼𝗁𝗂𝗇𝗀 𝗆𝖺𝖼𝗁𝗂𝗇𝖾𝗌 𝗍𝗈 𝗎𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽 𝖿𝗂𝗇𝖺𝗇𝖼𝗂𝖺𝗅 𝗉𝖺𝗍𝗍𝖾𝗋𝗇𝗌.
 
 - **𝖦𝗁𝗈𝗌𝗍 𝖢𝗁𝖺𝗍:** 𝖠 𝖽𝖾𝖼𝖾𝗇𝗍𝗋𝖺𝗅𝗂𝗓𝖾𝖽, 𝖯2𝖯 𝗆𝖾𝗌𝗌𝖺𝗀𝗂𝗇𝗀 𝗉𝗋𝗈𝗍𝗈𝖼𝗈𝗅. 𝖹𝖾𝗋𝗈 𝖼𝖾𝗇𝗍𝗋𝖺𝗅 𝗌𝖾𝗋𝗏𝖾𝗋 𝗋𝖾𝗅𝗂𝖺𝗇𝖼𝖾. 𝖯𝗋𝗂𝗏𝖺𝖼𝗒 𝖻𝗒 𝖺𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾, 𝗇𝗈𝗍 𝗉𝗋𝗈𝗆𝗂𝗌𝖾.
-
-- **𝖢𝗈𝖽𝖾 𝖲𝗍𝗈𝗋𝗒𝗍𝖾𝗅𝗅𝖾𝗋:** 𝖬𝖺𝗉𝗌 𝗍𝗁𝖾 𝗇𝖺𝗋𝗋𝖺𝗍𝗂𝗏𝖾 𝗈𝖿 𝖺 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒: 𝖾𝗏𝗈𝗅𝗎𝗍𝗂𝗈𝗇, 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝗈𝗋𝗌, 𝗍𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖽𝖾𝖻𝗍. 𝖴𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽𝗂𝗇𝗀 𝖼𝗈𝖽𝖾 𝖺𝗌 𝗅𝗂𝗏𝗂𝗇𝗀 𝗁𝗂𝗌𝗍𝗈𝗋𝗒.
 
 - **𝖫𝖾𝗀𝖺𝖼𝗒 𝖮𝖲:** 𝖡𝗋𝗎𝗍𝖺𝗅𝗂𝗌𝗍, 𝗎𝗅𝗍𝗋𝖺-𝗅𝗂𝗀𝗁𝗍𝗐𝖾𝗂𝗀𝗁𝗍 𝖠𝗋𝖼𝗁/𝖠𝗅𝗉𝗂𝗇𝖾 𝖿𝗈𝗋𝗄 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝖿𝗈𝗋 𝗏𝗂𝗇𝗍𝖺𝗀𝖾 𝗁𝖺𝗋𝖽𝗐𝖺𝗋𝖾. 𝖬𝖺𝖼𝗁𝗂𝗇𝖾𝗌 𝖽𝖾𝗌𝖾𝗋𝗏𝖾 𝗌𝖾𝖼𝗈𝗇𝖽 𝗅𝗂𝗏𝖾𝗌.
 
@@ -111,7 +108,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alex-marumo&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&text_color=9f9f9f&layout=compact&border_radius=4" width="49%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&include_all_commits=true&count_private=true&border_radius=4" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-marumo&bg_color=0a0a0a&color=c9c9c9&line=666666&point=9f9f9f&area=true&hide_border=true&radius=4" width="98%" />
+<img src="https://github.com/alex-marumo/alex-marumo/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake Contribution Graph" width="100%" />
 <!--
 ### 𝚝𝚑𝚎 𝚊𝚛𝚝𝚒𝚏𝚊𝚌𝚝
 
