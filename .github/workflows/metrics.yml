@@ -21,6 +21,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          # Force monochrome colors across all languages
-          plugin_languages_colors: "javascript:#c9c9c9, typescript:#9f9f9f, shell:#666666, lua:#333333, html:#333333, css:#333333"
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          repositories_batch: 100
+          # Monochromatic silver/gray palette matching #0a0a0a / #c9c9c9 theme
+          plugin_languages_colors: "javascript:#c9c9c9, typescript:#9f9f9f, shell:#666666, lua:#444444, html:#333333, css:#222222, python:#b0b0b0, c++:#808080"
           config_timezone: UTC
