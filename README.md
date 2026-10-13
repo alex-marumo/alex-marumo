@@ -106,8 +106,8 @@
 
 <br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alex-marumo&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&text_color=9f9f9f&layout=compact&border_radius=4" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&include_all_commits=true&count_private=true&border_radius=4" width="49%" />
+<img src="https://raw.githubusercontent.com/alex-marumo/alex-marumo/main/metrics.plugin.languages.svg" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alex-marumo&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c9c9c9&icon_color=666666&text_color=9f9f9f&ring_color=c9c9c9&include_all_commits=true&count_private=true&border_radius=4" width="49%" />
 <img src="https://github.com/alex-marumo/alex-marumo/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake Contribution Graph" width="100%" />
 <!--
 ### 𝚝𝚑𝚎 𝚊𝚛𝚝𝚒𝚏𝚊𝚌𝚝
