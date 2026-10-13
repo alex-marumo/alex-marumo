@@ -18,12 +18,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.languages.svg
           base: ""
+          
+          # Force dark monochrome theme & gray text/bars
+          config_theme: dark
+          config_colors: |
+            text: #c9c9c9
+            icon: #666666
+            background: #0a0a0a
+            
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           repositories_batch: 100
-          # Monochromatic silver/gray palette matching #0a0a0a / #c9c9c9 theme
-          plugin_languages_colors: "javascript:#c9c9c9, typescript:#9f9f9f, shell:#666666, lua:#444444, html:#333333, css:#222222, python:#b0b0b0, c++:#808080"
+          
+          # Explicitly map all top languages found in your repos to grays
+          plugin_languages_colors: "qml:#e0e0e0, c++:#cccccc, javascript:#b8b8b8, typescript:#a4a4a4, css:#8f8f8f, shell:#7a7a7a, lua:#666666, python:#525252, html:#3d3d3d, c:#292929"
           config_timezone: UTC
