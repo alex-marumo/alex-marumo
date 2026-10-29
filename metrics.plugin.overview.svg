@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="228" viewBox="0 0 480 228" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
 <rect x="0.5" y="0.5" width="479" height="227" rx="6" fill="#0a0a0a" stroke="#1c1c1c"/>
 <text x="24" y="32" font-size="11" fill="#666666" letter-spacing="1.5">activity · last 12 months</text>
-<text x="24" y="100" font-size="30" fill="#e0e0e0">231</text>
+<text x="24" y="100" font-size="30" fill="#e0e0e0">233</text>
 <text x="24" y="122" font-size="11" fill="#666666" letter-spacing="1.5">commits</text>
 <text x="252" y="100" font-size="30" fill="#e0e0e0">2</text>
 <text x="252" y="122" font-size="11" fill="#666666" letter-spacing="1.5">pull requests</text>
