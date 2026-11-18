@@ -4,15 +4,15 @@
 <clipPath id="bar"><rect x="24" y="50" width="432" height="4" rx="2"/></clipPath>
 <g clip-path="url(#bar)">
 <rect x="24" y="50" width="432" height="4" fill="#141414"/>
-<rect x="24.00" y="50" width="154.96" height="4" fill="#e0e0e0"/>
-<rect x="178.96" y="50" width="140.60" height="4" fill="#b0b0b0"/>
-<rect x="319.57" y="50" width="65.35" height="4" fill="#8a8a8a"/>
-<rect x="384.92" y="50" width="48.29" height="4" fill="#6a6a6a"/>
-<rect x="433.21" y="50" width="11.32" height="4" fill="#4a4a4a"/>
+<rect x="24.00" y="50" width="154.59" height="4" fill="#e0e0e0"/>
+<rect x="178.59" y="50" width="140.26" height="4" fill="#b0b0b0"/>
+<rect x="318.85" y="50" width="65.19" height="4" fill="#8a8a8a"/>
+<rect x="384.04" y="50" width="48.34" height="4" fill="#6a6a6a"/>
+<rect x="432.38" y="50" width="11.29" height="4" fill="#4a4a4a"/>
 </g>
 <circle cx="27" cy="86" r="3" fill="#e0e0e0"/>
 <text x="40" y="90" font-size="13" fill="#c9c9c9">JavaScript</text>
-<text x="456" y="90" font-size="13" fill="#888888" text-anchor="end">35.9%</text>
+<text x="456" y="90" font-size="13" fill="#888888" text-anchor="end">35.8%</text>
 <circle cx="27" cy="114" r="3" fill="#b0b0b0"/>
 <text x="40" y="118" font-size="13" fill="#c9c9c9">TypeScript</text>
 <text x="456" y="118" font-size="13" fill="#888888" text-anchor="end">32.5%</text>
